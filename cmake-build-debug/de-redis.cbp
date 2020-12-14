@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="de-redis"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de-redis">
+				<Option output="/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/de-redis" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 de-redis"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de-redis/fast">
+				<Option output="/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/de-redis" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 de-redis/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/evan/Documents/xmly/decode-redis-2.8/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/adlist.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/adlist.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/ae.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/ae.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/ae_epoll.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/ae_evport.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/ae_kqueue.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/ae_select.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/anet.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/anet.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/aof.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/bio.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/bio.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/bitops.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/config.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/config.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/crc64.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/crc64.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/db.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/debug.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/dict.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/dict.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/endianconv.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/endianconv.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/intset.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/intset.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/lzf_c.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/lzf_d.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/memtest.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/migrate.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/multi.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/networking.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/notify.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/object.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/pqsort.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/pqsort.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/pubsub.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/rand.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/rand.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/rdb.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/rdb.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/redis-benchmark.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/redis-check-aof.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/redis-check-dump.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/redis-cli.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/redis.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/redis.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/release.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/replication.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/rio.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/rio.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/scripting.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/sds.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/sds.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/sentinel.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/setproctitle.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/sha1.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/sha1.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/slowlog.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/slowlog.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/sort.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/syncio.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/t_hash.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/t_list.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/t_set.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/t_string.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/t_zset.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/util.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/util.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/ziplist.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/ziplist.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/zipmap.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/zipmap.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/zmalloc.c">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/src/zmalloc.h">
+			<Option target="de-redis"/>
+		</Unit>
+		<Unit filename="/Users/evan/Documents/xmly/decode-redis-2.8/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
